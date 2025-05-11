@@ -1,4 +1,4 @@
-# distribuidos3_f
+
 # Distribuidos3
 
 Este proyecto implementa una aplicación cliente-servidor usando CORBA (Common Object Request Broker Architecture) para gestionar una biblioteca distribuida. Permite al cliente conectarse remotamente al servidor para realizar operaciones sobre libros.
