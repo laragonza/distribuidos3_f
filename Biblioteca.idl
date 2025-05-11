@@ -1,0 +1,8 @@
+module Biblioteca {
+    interface GestionBiblioteca {
+        string obtenerLibro(in string titulo);
+        void agregarLibro(in string titulo, in string autor);
+        string buscarPorAutor(in string autor);
+        void eliminarLibro(in string titulo);
+    };
+};

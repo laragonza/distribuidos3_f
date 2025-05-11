@@ -1,0 +1,38 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+hs_err_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+gen/
+*.ipr
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Eclipse (por si usaste alguna vez)
+.project
+.classpath
+.csettings
+.settings/
+
+# VS Code (por si abres desde allí)
+.vscode/
+
+# Otros
+node_modules/
+target/
+bin/
